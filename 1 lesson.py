@@ -58,8 +58,8 @@
 # високосным, если его номер кратен 4, но не кратен
 # 100, а также если он кратен 400.
 
-age = int(input("Введите год: "))
-if (age % 4 == 0 and age % 100 != 0 or age % 400 == 0):
-   print("Yes")
-else:
-    print("No")
+# age = int(input("Введите год: "))
+# if (age % 4 == 0 and age % 100 != 0 or age % 400 == 0):
+#    print("Yes")
+# else:
+#     print("No")
