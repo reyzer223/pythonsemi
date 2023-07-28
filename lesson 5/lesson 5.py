@@ -112,10 +112,10 @@
 # Input: 2 -> 3 4
 # Output: 4 3
 
-def ReverseString(value):
-    n = int(input('Введите элемент -> '))
-    if value > 1:
-        ReverseString(value - 1)
-    print(n, end = ' ')
+# def ReverseString(value):
+#     n = int(input('Введите элемент -> '))
+#     if value > 1:
+#         ReverseString(value - 1)
+#     print(n, end = ' ')
 
-ReverseString(int(input('Введите колличество элементов -> ')))
+# ReverseString(int(input('Введите колличество элементов -> ')))
